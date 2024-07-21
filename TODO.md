@@ -3,8 +3,7 @@
 1. prevent grafting from being interrupted.
 2. maybe a prompt if the script wants to change the current task
 
-- [X] test
-- [ ] test 2
+- improve titles to give some status for the script and show more useful info
 - integrate grafting into augmentation planning (I like to use it for the Neuroceptor management implant and the cashroot starter kit)
 - corporations
 - stanek charging for reputation when I have lots of ram
