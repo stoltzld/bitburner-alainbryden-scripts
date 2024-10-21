@@ -15,5 +15,7 @@
 - improve visibility of intelligence farming
 - fix infiltration scripts
 - improve go script I stole and put it in this repo
+- manage stanek charges better in high RAM, low ascension scenarios
+- fix bladeburner script to handle running out of assassination operations better
 
 😧
